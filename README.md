@@ -3,19 +3,19 @@
 </div>
 
 ## 👋 Hi, I’m @potatodevyjh
-말하는 감자 수준의 4년째 소프트웨어 공부 중인 대학생.
-시각을 처리하고 나타내는 하는 일을 합니다.
+	A 4th year undergraduate researcher at the talking potato level, studying SoftWare and ComputerVision.
 
 ## 👀 I’m interested in Visual Processing
-- Especially on Image Segmentation and Depth Estimation
+	Especially on Image Segmentation and Depth Estimation
 
 ## 🌱 I’m currently learning...
-- Art&Technology
-- CyberSecurity
-- Computer Vision
-- Machine Learning
+	- Art&Technology
+	- CyberSecurity
+	- Computer Vision (Image Segmentation, Depth Estimation)
+	- Machine Learning
 
 ## 💞️ I’m looking to collaborate on ...
+Anyone interested in my interests.
 
 ## 📫 Contact Information
 - E-mail : yjh9929@cau.ac.kr
