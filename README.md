@@ -3,19 +3,19 @@
 </div>
 
 ## 👋 Hi, I’m @potatodevyjh
-	A 4th year undergraduate researcher at the talking potato level, studying SoftWare and ComputerVision.
+A 4th year undergraduate researcher at the talking potato level, studying **SoftWare** and **ComputerVision**.
 
 ## 👀 I’m interested in Visual Processing
-	Especially on Image Segmentation and Depth Estimation
+Especially on **Image Segmentation** and **Depth Estimation**
 
 ## 🌱 I’m currently learning...
-	- Art&Technology
-	- CyberSecurity
-	- Computer Vision (Image Segmentation, Depth Estimation)
-	- Machine Learning
+Art&Technology<br/>
+CyberSecurity<br/>
+**Computer Vision** (Image Segmentation, Depth Estimation)<br/>
+**Machine Learning**
 
 ## 💞️ I’m looking to collaborate on ...
-Anyone interested in my interests.
+	Anyone interested in my interests.
 
 ## 📫 Contact Information
 - E-mail : yjh9929@cau.ac.kr
